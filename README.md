@@ -4,14 +4,14 @@ Feito com PHP e integração com bando de dados SQL - phpmyadmin
   ## FUNCIONALIDADES  
   ### Cadastro de clientes:  
 
-![image](https://github.com/user-attachments/assets/0053186b-c044-46d7-89c5-263118190574)
+![image](https://github.com/user-attachments/assets/66276dca-50ba-4343-a05a-d610ae316e5a)
 
   ### Detalhes e atualização de dados do cliente  
-![image](https://github.com/user-attachments/assets/51d35fad-ab56-4714-98f1-4065f0197834)
+![image](https://github.com/user-attachments/assets/215fdc94-b435-48ee-810f-59e2bb32621b)
 
   
   ### Exclusão da conta  
-![image](https://github.com/user-attachments/assets/e34222ff-66c7-4e2a-afa7-eff006bde2b7)  
-![image](https://github.com/user-attachments/assets/b64d3530-c11a-4b36-91f2-f8e8d529e5b4)
+![image](https://github.com/user-attachments/assets/89b9ccdd-47e4-469d-9e70-ad5095c999b5)
+![image](https://github.com/user-attachments/assets/604acd06-5be5-47d3-9534-52f2ceee7159)
 
 
